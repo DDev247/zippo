@@ -1,0 +1,17 @@
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.csproj.AssemblyReference.cache
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.AssemblyInfoInputs.cache
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.AssemblyInfo.cs
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.csproj.CoreCompileInputs.cache
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/zippo
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/zippo.deps.json
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/zippo.runtimeconfig.json
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/zippo.dll
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/ref/zippo.dll
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/zippo.pdb
+/home/jackowy/Documents/git_clones/zippo/zippo/bin/Debug/net6.0/ICSharpCode.SharpZipLib.dll
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.csproj.CopyComplete
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.dll
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/ref/zippo.dll
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.pdb
+/home/jackowy/Documents/git_clones/zippo/zippo/obj/Debug/net6.0/zippo.genruntimeconfig.cache
